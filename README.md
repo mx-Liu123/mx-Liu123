@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Miaoxin (Millson) 👋
 
-<!--
-**mx-Liu123/mx-Liu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics PhD Student @ National University of Singapore (NUS)**
 
-Here are some ideas to get you started:
+I build tools to automate the loop of scientific discovery and complex workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Working on
+
+* **[AgentCommander](https://github.com/mx-Liu123/AgentCommander):** An advanced, graph-based workflow execution engine for Gemini/Qwen CLI.
+    * *Motivation:* I built this to automate my own research experiments and model optimization loops.
+    * *Key Tech:* Python, LLM Agents, Symbolic Regression.
+
+### 🛠️ Tech Stack & Interests
+
+* **Languages:** Python, C++
+* * **Research:** Astrophysics, Bayesian inference, Machine Learning
+* **Interests:** AI Agents, Quantitative Finance, High-Performance Computing
+
+
+---
+
+Let's connect and build something cool!
