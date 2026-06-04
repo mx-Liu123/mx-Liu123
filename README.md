@@ -8,7 +8,7 @@ I build tools to automate the loop of scientific discovery and complex workflows
 
 ### 🚀 Currently Working on
 
-* **[Auto-Research In Few-lines (arif)](https://github.com/mx-Liu123/Auto-research-in-few-lines):** A lightweight Python micro-framework for LLM-driven research experiments.
+* **[Auto-Research In Few-lines (Arif)](https://github.com/mx-Liu123/Auto-research-in-few-lines):** A lightweight Python micro-framework for LLM-driven research experiments.
     * *Motivation:* To help users (and AI agents) autonomously construct and monitor customized automated research loops with minimal code, striking a balance between creative freedom and experimental control.
     * *Key Tech:* Python, LLM Automation, Experiment Tracking.
 * **[AgentCommander](https://github.com/mx-Liu123/AgentCommander):** An advanced, graph-based workflow execution engine for OpenCode/Claude/Gemini/Qwen CLI.
